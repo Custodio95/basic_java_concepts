@@ -25,6 +25,8 @@ public class InputDataScanner {
 
 		System.out.println("O resultado é: " + res);
 		
+		sc.close();
+		
 	}
 
 }
